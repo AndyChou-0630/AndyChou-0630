@@ -7,5 +7,3 @@
 - [Deep Learning Model](https://github.com/AndyChou-0630/machine-learning-project-by-Andy)
 
 
--->
-![Andy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=andychou&show_icons=true&theme=radical)
